@@ -1,5 +1,7 @@
 package db
 
+// Issues with TestlistAccount() and schema
+
 import (
 	"context"
 	"database/sql"
