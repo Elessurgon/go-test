@@ -1,3 +1,4 @@
 app.env
 *.exe
 sqlc
+mockgen
